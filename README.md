@@ -1,4 +1,4 @@
-# Knowit Developer Summit
+# devops.knowit.no
 
 ## Getting started
 
